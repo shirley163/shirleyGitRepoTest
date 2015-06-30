@@ -22,7 +22,7 @@
     
     NSLog(@"another add commit");
     
-    
+    NSLog(@"add will commit");
 }
 
 - (void)didReceiveMemoryWarning {
